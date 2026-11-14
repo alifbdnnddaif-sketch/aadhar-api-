@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for aadhar-ap2i-bot on 2026-11-14T22:28:33Z
+# fly.toml app configuration file generated for aadhar-a1-bot on 2026-11-14T22:40:42Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'aadhar-ap2i-bot'
+app = 'aadhar-a1-bot'
 primary_region = 'ams'
 
 [build]
